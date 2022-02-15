@@ -2,7 +2,7 @@
 
 Exploring Django's Admin Site possibilities/features by following [Very Academy's](https://www.youtube.com/channel/UC1mxuk7tuQT2D0qTMgKji3w) - [Django Admin Series](https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO&ab_channel=VeryAcademy)
 
-Topics summary:
+Summary:
 ```
 - Customization
 - Hooks
@@ -22,4 +22,10 @@ Topics covered:
   - Registering a model - Object -> Customisation
   - Registering all models
     -- unregister
+3. ModelAdmin options (Field and Fieldset Customisation)
+  - Selecting fields
+  - Fieldsets
+    -- Fields, Descriptions, Classes
+  - Help Text
+  - Building a custom form
 ```
