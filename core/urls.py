@@ -1,7 +1,7 @@
 # from django.contrib import admin
 from django.urls import path, include
 from blog.admin import blog_site
-from bookstore.admin import bookstore_site
+from bank.admin import bank_site
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -9,7 +9,7 @@ from django.conf.urls.static import static
 urlpatterns = [
     # path('admin/', admin.site.urls),
     path('blogadmin/', blog_site.urls),
-    path('bookstoreadmin/', bookstore_site.urls),
+    path('bankadmin/', bank_site.urls),
     path('summernote/', include('django_summernote.urls'))
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 

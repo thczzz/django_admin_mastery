@@ -29,6 +29,7 @@ INSTALLED_APPS = [
 
     'blog.apps.BlogConfig',  # renamed from blog, otherwise Exception is raised if BlogAdmin is the main admin
     'bookstore',
+    'bank',
 
     # 3rd party
     'django_summernote',
