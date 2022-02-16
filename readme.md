@@ -53,6 +53,7 @@ Topics covered:
       --- Decisions based upon user
   
 9. Django Admin CSV file upload
+  -- Create objects from the .csv data
 ```
 
 Snapshot of blogadmin/ customized login page:
