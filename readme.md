@@ -53,5 +53,5 @@ Topics covered:
 9. Django Admin CSV file upload
 ```
 
-Snapshot of blogadmin/ custom login page:
+Snapshot of blogadmin/ customized login page:
 ![snapshot of blogadmin/ login page](snapshot.png)
