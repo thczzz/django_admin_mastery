@@ -41,10 +41,14 @@ Topics covered:
 7. Django Admin Template and CSS Overrides
 
 8. Django Admin User Model Permission Overrides & Performing Extra Operations
-  -- add   : ModelAdmin.has_add_permission()
-  -- change: ModelAdmin.has_change_permission()
-  -- delete: ModelAdmin.has_delete_permission()
-  -- view  : ModelAdmin.has_view_permission()
+  - Part 1:
+    -- add   : ModelAdmin.has_add_permission()
+    -- change: ModelAdmin.has_change_permission()
+    -- delete: ModelAdmin.has_delete_permission()
+    -- view  : ModelAdmin.has_view_permission()
+  - Part 2:
+    -- Extending permissions to provide additional functionality
+      --- Decisions based upon user
   
 9. Django Admin CSV file upload
 ```
