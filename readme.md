@@ -2,6 +2,8 @@
 
 Exploring Django's Admin Site possibilities/features by following [Very Academy's](https://www.youtube.com/channel/UC1mxuk7tuQT2D0qTMgKji3w) - [Django Admin Series](https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO&ab_channel=VeryAcademy)
 
+Topics from 1-8 were exercised in the blog app, Topic 9 was exercised in the bank app.
+
 Summary:
 ```
 - Customization
@@ -52,3 +54,6 @@ Topics covered:
   
 9. Django Admin CSV file upload
 ```
+
+Snapshot of blogadmin/ customized login page:
+![snapshot of blogadmin/ login page](snapshot.png)
