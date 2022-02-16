@@ -32,7 +32,6 @@ Topics covered:
   - Building a custom form
   
 4. Custom Login Page Template
-
 5. Installing a Markdown Editor (django-summernote)
 
 6. Django Admin filters
@@ -40,4 +39,6 @@ Topics covered:
   -- Custom filter
   
 7. Django Admin Template and CSS Overrides
+8. Django Admin User Model Permission Overrides & Performing Extra Operations
+9. Django Admin CSV file upload
 ```
